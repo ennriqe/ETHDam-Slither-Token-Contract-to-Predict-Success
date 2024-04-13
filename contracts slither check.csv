@@ -1,0 +1,163 @@
+,Unnamed: 0,index,Name,Ticker,Contract,success,error
+0,0,0,Magic Ethereum Chat,MEC,0x85abF69827Ee11a6e277E5694Be56c3489F2bE74,0.0,Unknown language: unknown
+1,1,1,Pepewifhat,PWIF,0x216463D71EAA305872fB97FBd40559CaEce39749,1.0,
+2,2,2,MrBacon,BACON,0x7158a076d13c086FDa65e827AE2CB81D6e2354e9,0.0,Unknown language: unknown
+3,3,3,MrBacon,BACON,0x4067d0a72ddb003249B0bc2312D86415bCCe2e89,0.0,Unknown language: unknown
+4,4,4,Myria,MRY,0xfb73198c67C54Fb8fc88F32B6086F504479A5b50,0.0,"Invalid compilation: 
+Etherscan API rate limit exceeded"
+5,5,5,Inu,INU,0x1c810d49CEf662c5a97F3A00d5F03194517F710A,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
+6,6,6,ReeCoin,REE,0x4E6415baC66d5C66eFEB0ded7494ae3c648d68cf,0.0,Unknown language: unknown
+7,7,9,FLORIDA MAN,FMAN,0xC6D387604Cbb6840224b26f6afCBE62a3461d259,0.0,"Invalid compilation: 
+Etherscan API rate limit exceeded"
+8,8,10,PepeTrump,PepeTrump,0xa5f6182455A381ddcfc2eaF3984EfeEB95017627,1.0,"Invalid compilation: 
+Etherscan API rate limit exceeded"
+9,9,11,KANSHA,KSH,0x625933f04eb04f33Ac489c952854165C7cc4A2fd,1.0,"Invalid compilation: 
+Etherscan API rate limit exceeded"
+10,10,12,Miltzn Home,MH,0xb8D44feCbAC44eA6Ea25D5480e0a902548870ed1,1.0,"Invalid compilation: 
+Etherscan API rate limit exceeded"
+11,11,13,Space Feet,SF,0xE16e6a5c25AE93E70C62C200c2c105082E767efd,0.0,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+"
+12,12,14,Space Feet,SFT,0x5118887f72aC91c8a84FBA04a848e920817bf925,0.0,Unknown language: unknown
+13,13,15,TOMMY,TOMMY,0x765a4E9032ad2D2303B8FF16c67D36389d0b0293,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.20/solc-0.8.20 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.20/solc-0.8.20 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
+14,14,16,TESTGAMMAERC404,TGEC,0xaA6210015fbf0855F0D9fDA3C415c1B12776Ae74,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
+15,15,17,EXPELL,EXPELL,0x90755CafD5fc6fe0cA104B11596AA94CDfcec02A,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.20/solc-0.8.20 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.20/solc-0.8.20 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
+16,16,18,Ultimate AI,ULTI,0xB0251B12e6e164f9053B768487c912243C784176,0.0,<urlopen error [Errno 54] Connection reset by peer>
+17,17,19,Fragment,FRG,0x47B21f5278b7b53836f67A10A5009f724485F6F7,0.0,Unknown language: unknown
+18,18,20,Apex Reserve,AR,0x5c1755fCBa6a38E0c3cB052730Eb697846540049,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
+19,19,21,KUMATAMA Only One Collection,koc,0x1EB3Add1D2B0B047766b6978303Be52F60bec2f9,1.0,
+20,20,22,DeepBrainAI,BRAIN,0x97Be566597CD8Fa19a80ccfa20D69EeB36f56382,0.0,"Invalid compilation: 
+Etherscan API rate limit exceeded"
+21,21,23,Igne,IGNE,0x6108Ada457aff032113831f0806606Fd4e367416,0.0,Unknown language: unknown
+22,22,24,ATH,Fund,0xfe9E45b7085eEb64D95903d3972c3712Af510d35,0.0,"Invalid compilation: 
+Etherscan API rate limit exceeded"
+23,23,25,Galaxy,GALAXY,0x5aA4597457D9DEB68274c51b80C7862E094fb169,1.0,
+24,24,27,Avalon AI,AVA,0x41EbBaDCA18B831167A9E7c2044d2fF804644435,1.0,
+25,25,28,MindTheGap $BTC,MTG,0xDe82d78d284543454a39137092D79BaC8A6341A9,1.0,
+26,26,29,SpreadTheWord $BTC,STW,0xf5B8e90eBF2DD22B7d8460E0DD09ae14526d1011,1.0,
+27,27,30,Battle Derby Pass,bdp,0x1e1c7987582D2BCE3E910bbe0A487fCbFB755d37,1.0,
+28,28,31,lfg.exchange,lfg,0x472801f4254825ec6C17Aa265142D6fe791d7091,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.20/solc-0.8.20 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.20/solc-0.8.20 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
+29,29,32,ATH Fund,ATH,0x2631f65f48b396611755683C0171A23BDd20cc61,1.0,
+30,30,33,PepeTrumpOG,PepeTrumpOG,0xfB95a17fBEdE818472e113696Bf1577e51D62174,1.0,
+31,31,34,XAuthenticus,XA,0x5F542CaD85FAc2C45DE67f2937bd28f047f46de9,0.0,"Invalid compilation: 
+Etherscan API rate limit exceeded"
+32,32,35,Bebe the Frog,BEBE,0xFd940bCdd29495ab0259eE65b8c3EaA0062aF297,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
+33,33,36,Flaru,FLARU,0x62b119b19f1CF2A8D8fe18d1fDe5EE46ded210FE,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
+34,34,37,CIAN Stablecoin Long-Short vault LP token,ciSLS,0xF60cb775133cE4c5DA372C30575ea01524345b85,0.0,Unknown language: unknown
+35,35,38,Do Not Buy,DNB,0xA4F012af32CcDe25138fCd62f447105858bEfd27,0.0,Unknown language: unknown
+36,36,39,KOA,KOA,0x9C9747FCC731f8B665BeC6f0467C88604d671Ac9,0.0,"Invalid compilation: 
+Etherscan API rate limit exceeded"
+37,37,40,MixBit,MIBI,0xf776fC8A1BDF04B16ee812663b1113031ebA8CF0,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
+38,38,41,Nude AI,NUDE,0xaf40e285695A46a1fC6361e89EaD564c838D4fd6,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
+39,39,42,Blastar,Blastar,0x2Aaa160219706c8E8ED853eB309D0f0733597Dfb,0.0,<urlopen error [Errno 60] Operation timed out>
+40,40,43,Axiom AI,AxiAI,0x4C6A59D75C3723924a91Fc0d8529e5f2785F920B,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
+41,41,44,Art Blocks,BLOCKS,0x1A0cE531e19874669977Aed8aE3f387b951C716b,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.20/solc-0.8.20 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.20/solc-0.8.20 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
+42,42,45,TermRepoToken,TR240404WETH_weETH,0xa512Ead2014E3aB6958941b08c286b1BbA74685d,0.0,Unknown language: unknown
+43,43,46,Blastar,Blastar,0xe5D54B935B8f9d65e870ffF144Fe9edCA2CE1ff8,0.0,<urlopen error [Errno 60] Operation timed out>
+44,44,48,NFTeriaToken,NAST,0xc54fD1C05861b7Ab7C023954dFc3d932d6258d6d,0.0,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+"
