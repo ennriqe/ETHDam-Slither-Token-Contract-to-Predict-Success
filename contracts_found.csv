@@ -1,0 +1,2152 @@
+,Unnamed: 0,index,Name,Ticker,Contract,error,success
+0,0.0,0.0,Magic Ethereum Chat,MEC,0x85abF69827Ee11a6e277E5694Be56c3489F2bE74,Unknown language: unknown,0.0
+1,1.0,1.0,Pepewifhat,PWIF,0x216463D71EAA305872fB97FBd40559CaEce39749,,1.0
+2,2.0,2.0,MrBacon,BACON,0x7158a076d13c086FDa65e827AE2CB81D6e2354e9,Unknown language: unknown,0.0
+3,3.0,3.0,MrBacon,BACON,0x4067d0a72ddb003249B0bc2312D86415bCCe2e89,Unknown language: unknown,0.0
+4,4.0,4.0,Myria,MRY,0xfb73198c67C54Fb8fc88F32B6086F504479A5b50,Unknown language: unknown,0.0
+5,5.0,5.0,Inu,INU,0x1c810d49CEf662c5a97F3A00d5F03194517F710A,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+6,6.0,6.0,ReeCoin,REE,0x4E6415baC66d5C66eFEB0ded7494ae3c648d68cf,Unknown language: unknown,0.0
+7,7.0,9.0,FLORIDA MAN,FMAN,0xC6D387604Cbb6840224b26f6afCBE62a3461d259,"Invalid compilation: 
+Invalid solc compilation ",0.0
+8,8.0,10.0,PepeTrump,PepeTrump,0xa5f6182455A381ddcfc2eaF3984EfeEB95017627,,1.0
+9,9.0,11.0,KANSHA,KSH,0x625933f04eb04f33Ac489c952854165C7cc4A2fd,,1.0
+10,10.0,12.0,Miltzn Home,MH,0xb8D44feCbAC44eA6Ea25D5480e0a902548870ed1,,1.0
+11,11.0,13.0,Space Feet,SF,0xE16e6a5c25AE93E70C62C200c2c105082E767efd,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+12,12.0,14.0,Space Feet,SFT,0x5118887f72aC91c8a84FBA04a848e920817bf925,<urlopen error [Errno 60] Operation timed out>,0.0
+13,13.0,15.0,TOMMY,TOMMY,0x765a4E9032ad2D2303B8FF16c67D36389d0b0293,"Invalid compilation: 
+Invalid solc compilation ",0.0
+14,14.0,16.0,TESTGAMMAERC404,TGEC,0xaA6210015fbf0855F0D9fDA3C415c1B12776Ae74,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+15,15.0,17.0,EXPELL,EXPELL,0x90755CafD5fc6fe0cA104B11596AA94CDfcec02A,"Invalid compilation: 
+Invalid solc compilation ",0.0
+16,16.0,18.0,Ultimate AI,ULTI,0xB0251B12e6e164f9053B768487c912243C784176,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+17,17.0,19.0,Fragment,FRG,0x47B21f5278b7b53836f67A10A5009f724485F6F7,Unknown language: unknown,0.0
+18,18.0,20.0,Apex Reserve,AR,0x5c1755fCBa6a38E0c3cB052730Eb697846540049,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+19,19.0,21.0,KUMATAMA Only One Collection,koc,0x1EB3Add1D2B0B047766b6978303Be52F60bec2f9,,1.0
+20,20.0,22.0,DeepBrainAI,BRAIN,0x97Be566597CD8Fa19a80ccfa20D69EeB36f56382,Unknown language: unknown,0.0
+21,21.0,23.0,Igne,IGNE,0x6108Ada457aff032113831f0806606Fd4e367416,Unknown language: unknown,0.0
+22,22.0,24.0,ATH,Fund,0xfe9E45b7085eEb64D95903d3972c3712Af510d35,,1.0
+23,23.0,25.0,Galaxy,GALAXY,0x5aA4597457D9DEB68274c51b80C7862E094fb169,,1.0
+24,24.0,27.0,Avalon AI,AVA,0x41EbBaDCA18B831167A9E7c2044d2fF804644435,,1.0
+25,25.0,28.0,MindTheGap $BTC,MTG,0xDe82d78d284543454a39137092D79BaC8A6341A9,,1.0
+26,26.0,29.0,SpreadTheWord $BTC,STW,0xf5B8e90eBF2DD22B7d8460E0DD09ae14526d1011,,1.0
+27,27.0,30.0,Battle Derby Pass,bdp,0x1e1c7987582D2BCE3E910bbe0A487fCbFB755d37,,1.0
+28,28.0,31.0,lfg.exchange,lfg,0x472801f4254825ec6C17Aa265142D6fe791d7091,"Invalid compilation: 
+Invalid solc compilation ",0.0
+29,29.0,32.0,ATH Fund,ATH,0x2631f65f48b396611755683C0171A23BDd20cc61,,1.0
+30,30.0,33.0,PepeTrumpOG,PepeTrumpOG,0xfB95a17fBEdE818472e113696Bf1577e51D62174,,1.0
+31,31.0,34.0,XAuthenticus,XA,0x5F542CaD85FAc2C45DE67f2937bd28f047f46de9,,1.0
+32,32.0,35.0,Bebe the Frog,BEBE,0xFd940bCdd29495ab0259eE65b8c3EaA0062aF297,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+33,33.0,36.0,Flaru,FLARU,0x62b119b19f1CF2A8D8fe18d1fDe5EE46ded210FE,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+34,34.0,37.0,CIAN Stablecoin Long-Short vault LP token,ciSLS,0xF60cb775133cE4c5DA372C30575ea01524345b85,Unknown language: unknown,0.0
+35,35.0,38.0,Do Not Buy,DNB,0xA4F012af32CcDe25138fCd62f447105858bEfd27,Unknown language: unknown,0.0
+36,36.0,39.0,KOA,KOA,0x9C9747FCC731f8B665BeC6f0467C88604d671Ac9,,1.0
+37,37.0,40.0,MixBit,MIBI,0xf776fC8A1BDF04B16ee812663b1113031ebA8CF0,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+38,38.0,41.0,Nude AI,NUDE,0xaf40e285695A46a1fC6361e89EaD564c838D4fd6,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+39,39.0,42.0,Blastar,Blastar,0x2Aaa160219706c8E8ED853eB309D0f0733597Dfb,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+40,40.0,43.0,Axiom AI,AxiAI,0x4C6A59D75C3723924a91Fc0d8529e5f2785F920B,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+41,41.0,44.0,Art Blocks,BLOCKS,0x1A0cE531e19874669977Aed8aE3f387b951C716b,"Invalid compilation: 
+Invalid solc compilation ",0.0
+42,42.0,45.0,TermRepoToken,TR240404WETH_weETH,0xa512Ead2014E3aB6958941b08c286b1BbA74685d,Unknown language: unknown,0.0
+43,43.0,46.0,Blastar,Blastar,0xe5D54B935B8f9d65e870ffF144Fe9edCA2CE1ff8,Unknown language: unknown,0.0
+44,44.0,48.0,NFTeriaToken,NAST,0xc54fD1C05861b7Ab7C023954dFc3d932d6258d6d,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+45,,,Magic GPT,MGPT,0x738FDdc4108C714A1e100993Dbab35C05839bd35,,1.0
+46,,,1ETH,1ETH,0xAa6eeb4fE743caC4c1D003C85D1eb61cA9dD83FD,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+47,,,Crocus AI-Powered Network,CRUS,0x83fED268FE86d7e18bC95a89b8d0f8970AAa798b,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+48,,,PEPESimpsons,PEPES,0x17E6033ef9998d408F16d359197a973dcbE1aBD1,,1.0
+49,,,THE MISSOR,MISSOR,0xE5c537b66Fd59388c15fb102721519fcA29fda35,Unknown language: unknown,0.0
+50,,,NPC,NPC,0x27557A54460D4A122f1107acc87D4256a6088Ef0,Unknown language: unknown,0.0
+51,,,sophon,sophon,0x78E25261D5369962E0A8bEF3DEE0E2Cd9816c266,Unknown language: unknown,0.0
+52,,,NetMind Token,NMT,0x03AA6298F1370642642415EDC0db8b957783e8D6,"Invalid compilation: 
+Invalid solc compilation ",0.0
+53,,,Brrito,BRRITO,0x609eBC7b59e299641E1928A735e8fA7b86E179e4,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+54,,,Pit Viper,VIPER,0xf25Ae962Ed9d94E80ee60BFe86f7f606eA313F86,Unknown language: unknown,0.0
+55,,,Taiko,TAIKO,0xFaccbb401e98934D699d280b0d93efAF6F243406,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+56,,,Tensor Net AI,TNAI,0xDD9F2163573B34db04bB17c78d20bD3ed2D1312f,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+57,,,PAALX: Bots Collection,PAALX,0xE71af533d7587A9Eb7B4bDfD3D018e5ab73a8A82,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+58,,,Major,MAJOR,0xF097c5c5288984f6558D9C3d40811B6862314084,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+59,,,AIRSHIBA,AIRSHIBA,0x9F1EEa3b1db0753FBcc9903C2f322EBB36F59801,"Invalid compilation: 
+Invalid solc compilation ",0.0
+60,,,valhalla,pODIN,0xafe1F646018e778f504B51Cfe46bC5e2B8178677,,1.0
+61,,,Okay Dogs,OKD,0x7037ae030238C688dd7bB421d4A4f78d7684533A,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+62,,,Casita de Cruz,CDC,0x1A90EE4B8A8aa2060fEE932E903E1F6F8Ec169Bf,,1.0
+63,,,dogewifhat,DWIF,0x41c751BBa6dCDf02cb8Df01551a270db0939C6D9,"Invalid compilation: 
+Invalid solc compilation ",0.0
+64,,,Urban & Orbi 2,UO2,0x92248c72669CC3c9Ff2CeA826CB2ad10610F49F2,,1.0
+65,,,Automak,ATOM,0x1b75C32Ade437BD70dA7162Ed2dBa1b1DC156430,,1.0
+66,,,YoListenUpMofosJeetyAftodayAllyouKeyboardFuckingWarriorsAndFuckingDigitalStupidsItsFuckingYaBoyTheUndisputedMasterOfTheOnlineFuckingShitTheyCallMeFingersOfFuryOrSimplyMiddleFingerAndImHereToLayDownTheLawInTheDigitalWorldOfMemeYouThinkYoureAllFuckingThatHuhTypingFuckingAwayOnYourLittlePlasticKeyboardsFlexingThoseMemeImagesMusclesWellGuessWhatMotherfuckersIBenchPressBitsAndSquatsKilobytesForBreakfastYouSayICantLiftInRealLifeHaIOnceLiftedMyStupidCatAndABagOfChipsAtTheSameTimeNosweatMyBicepsAreSoDamnLegendaryTheyHaveTheirOwnFacebookFanPageWhenImNotSparringWithTrollsImFendingOffCyberDragonsAndBattlingMythicalRedditCreaturesMyScreenNameIsEngravedOnTheGreatFirewallofChinaAsAWarningToAllWhoDareChallengeMySupremacyInMinecraftILaughInTheFaceOfLagLagFearsMeIveGotPingSoLowItsPracticallyNegativeMyFunnyInsultsAreSoSharpTheyCutThroughFiberOpticsLikeAHotKnifeThroughYourFuckingAssYouThoughtYourMemesWereDankChildsPlayIveMemedWithTheAncientEgyptiansTradedPunsWithShakespeareAndEvenHadARoastOffWithMedievalJeetersSoBeforeYouStepUpToTheKeyboardRememberImTheFuckingRulerOfTheInternetDojoTheDigitalDominatorTheMemeMaestroTheFuckingInternetThoughGuyAndIfYouDareFuckingCrossMeIrlYeahIrlBePreparedToFaceTheWrathOfMyMightyKeyboardOfJusticeStupidAss,INTERNETTOUGHGUY,0x99b3D34E26A9550183a50e90e1412a295E5b3476,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+67,,,catwifhat,CWIF,0x8d77Ede3D0Fe67A9042d70b6E3676f1769B02c02,"Invalid compilation: 
+Invalid solc compilation ",0.0
+68,,,BetAI,BAI,0x36C79f0B8a2e8A3C0230c254C452973E7a3BA155,,1.0
+69,,,Closed AI,ClosedAI,0x302dc4C11Beb60c53b9289675C5ceF8B221B7135,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+70,,,Mecka AI,MECKA,0x40973d1F8cF6af7BbEd2A1CE0634717d3455e256,,1.0
+71,,,Murf,MURF,0xECe93b610fE0528479b16DC7F0b2Ef65a7f25A57,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+72,,,Corphix AI,CORPHIX,0x5Eaf5acB2bba16F6EB93999EEB44e6211Ac8818a,,1.0
+73,,,Crown Trade,CROWN,0x8Bfa08c9fb188526b65332bf6162C73b98C362b1,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+74,,,Baby Mog,BMOG,0x207b5887c17bD07cE091b70D0A2c1b5C64234F28,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+75,,,Loopy,LOOPY ,0x89819b5F4d890624c61f5C942ea1B3b5089ca22e,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+76,,,ERC-4337,ERC-4337,0xe5A7014d931bE870A388cb1d7835C87d630446D9,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+77,,,ERC-4337,ERC-4337,0x9eA276799634429974EF47Aa1D2b1e8819F76c02,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+78,,,decentralized fee market,ERC-4337,0x5cCFf1D1d1a430f53CC153191307aF0E8C2D01da,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+79,,,ERC-4337,ERC-4337,0x6a05Be6b3E212f552e02Dcd975f1EEb802b22f99,,1.0
+80,,,Pepe Collection,PEPE404,0x564b584B15b692E8B9A142CE44E521B8D9157955,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+81,,,Pepe Collection,PEPE404,0x8b00824936d34F66986fdceF33dcc3BB9b16b2e4,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+82,,,Pog Coin 2,POG,0xF875c423F210E0dBBB0FE9801608236412eBB8dF,,1.0
+83,,,Setensor,SAO,0xbc7C5d6Cd263BEC6e7979518B599560B27297e1A,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+84,,,AlphaOrBeta,AOB,0x70acB9f3a4Da71c0aA868276881e4c5Be9440346,,1.0
+85,,,Tsundere Dreams,TSD,0x9e2f137f96f0EC7E6F16237c3F2348FB6f285F41,,1.0
+86,,,Green Carbon Coin,GCC,0x36174a70BB952f287a47c0c1117958660845E143,,1.0
+87,,,Elon's Lizard,LIZX,0x9CeD4f2bD4e4d48fe7ACdF0C25433Ee2601DFFA9,Unknown language: unknown,0.0
+88,,,PEPESimpsons,PEPES,0x17E6033ef9998d408F16d359197a973dcbE1aBD1,,1.0
+89,,,Multensor,MAO,0xf10df57C9C77c8D3516c36AD1C2e64810F9Eea22,Unknown language: unknown,0.0
+90,,,CLOUD,CLOUD,0xfABcdCEA733AAc380d7794D9b90CFC703Df30163,,1.0
+91,,,PEPESimpsons,PEPES,0x17E6033ef9998d408F16d359197a973dcbE1aBD1,,1.0
+92,,,Elon's Lizard,LIZX,0x9CeD4f2bD4e4d48fe7ACdF0C25433Ee2601DFFA9,Unknown language: unknown,0.0
+93,,,Green Carbon Coin,GCC,0x36174a70BB952f287a47c0c1117958660845E143,,1.0
+94,,,SupremacyAGI,SupremacyAGI,0xB3462158df1D9a348FC2d1Ef9b1b493b949b3669,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+95,,,Multensor,MAO,0xf10df57C9C77c8D3516c36AD1C2e64810F9Eea22,Unknown language: unknown,0.0
+96,,,Independence Token,RFKJ,0x3CdA10977887B679e821EE511eaa9C29F3eC3d2b,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+97,,,CHRONETCHLES,ETCHCC,0x2303B7F98106a517BA0C4AcB615b85218314AB94,,1.0
+98,,,PepeCoin Alliance,PepeCoin,0x78642873D18842AA34DDdA0eBd006ad946a5De16,Unknown language: unknown,0.0
+99,,,GiggleByte,GIGGLE,0x446A3004072a3627753Bf2Ff265340FAEEbb281B,Unknown language: unknown,0.0
+100,,,CLOUD,CLOUD,0xfABcdCEA733AAc380d7794D9b90CFC703Df30163,,1.0
+101,,, Qubic   , QUBIC            ,0x57D9b70CB87d6a620EB063e48df28A211D907493,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+102,,,Dino Dollar,DNDL,0xDE8e80a6D68e35C80B44BAC9fb3D7c1dc22c0bDb,,1.0
+103,,,Mog 2.0,MOG2,0x17490380FD067D10d734a9DDE18A356d1F72bDBe,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+104,,,BabyPepe,BabyPepe,0x378d28708e2Ff5eC33B29933225f68eFda21B1f8,Unknown language: unknown,0.0
+105,,,TNR - Test,TNRtest,0xed80C50Edd97096a2F4aa6b85E42C3Ac96671897,Unknown language: unknown,0.0
+106,,,Pictogram AI,PAI,0x1aA42F127EBBb0C096e5cB8DBA1Ee7FB284b4b3D,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+107,,,0xAlien AI,MIXAI,0x3251dc71b5BFeDA1c8d26A4f2119B5B746721827,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+108,,,Enterprise PepeCoin Alliance,PepeCoin,0xEcFdE8b05288849b3846Be4807639A4028D4eb46,Unknown language: unknown,0.0
+109,,,Punks404,PUNKS,0xcF1fB8d45e2f200Ae26e5edCF607d3903b53A0F7,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+110,,,Enterprise PepeCoin Alliance,PepeCoin,0xd2306A7281Dc687f62B1C9c6751D78480C410597,Unknown language: unknown,0.0
+111,,,WoofOracle,WFO,0x9e0a13263eFf87fe3Fc8FE28Ba53406e0C912a62,,1.0
+112,,,Fishing Club DAO,FCDAO,0xcbA7d17EeE8Fb98Cc5c7377C4624A3f091587f44,,1.0
+113,,,The Sleeper,Sleeper,0x9e8c8F103dF5eCA1f518dEE197C100eb09b4Ae6C,,1.0
+114,,,0x404 Deployer Bot,0x404,0x4f69EbF8c0828f5C335600a05F0EB5F8573F4CE8,"Invalid compilation: 
+Invalid solc compilation ",0.0
+115,,,InfoSec,INFOSEC,0xA9491FE376c0A36499D996F91a82af8a72944292,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+116,,, Super Trump  , STRUMP            ,0x422019dF4Eb22829EA7c5ae1f3472Cb8381B2A29,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+117,,,NUDE AI,NUDE,0x3e6A2bC917Fb49c7C872C9c3a83F001670559d7D,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+118,,,Save A Bird,Save A Bird,0x092F9235c07CAa816182363B8329011549B008C2,,1.0
+119,,,BitFarm Protocol,BitFarm,0x67C9d529d5d956f170e6Eb4D3652074A28cDd32b,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+120,,,! paalabs.com,Claim $PAAL rewards at https://paalabs.com,0x7400c94F1Af4476dE5c17602040CDEbC601cB3B0,Unknown language: unknown,0.0
+121,,,Pacman Checks,CHECKS,0xdBe5267629D862c5d94f91adfCd21f14CC709b1D,,1.0
+122,,,Apu Apustaja,APU,0xfCa8B7a10ac31C7e1e0d145E1D4Dc4D2725a8531,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+123,,,Error-404,ERROR,0x615faA065c54393E5A5DB2Ee76f5Be63256721D4,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+124,,,PEPEFLOKI,PEKI,0x516C14B3b86c4d53d8d3Fa34c4Ea35CfbBa5931d,,1.0
+125,,,Conduit,CONDUIT,0x9ed9ed49b85818Ec652DA36021A1dbAF09990144,Unknown language: unknown,0.0
+126,,,Build-a-bear,Build-a-bear,0x55E428a4cba513fb3EA442ea88EE869Ed0D01b2F,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+127,,, BounceBit  , BounceBit            ,0x908d7874a66cAA49A754b299E3AbB94410C3682b,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+128,,,Spiral,SPIRAL,0x2a466Df8D3E4d0AdCa76778C9Aa2FbE3eBAcdF77,Unknown language: unknown,0.0
+129,,,The Biggest Bubble Run,BUN,0x49baa821916b58424DA9fb4cEcA17A1816C42fCF,"Invalid compilation: 
+Invalid solc compilation ",0.0
+130,,,Simba Trump,SIMBA,0x9a31a748aA02df9F8E8C4e2385C5AF937D39b381,"Invalid compilation: 
+Invalid solc compilation ",0.0
+131,,,EeBe Train,EBTRAIN,0xf51f4bfd6fcC385Bc37Eb84432520b7B0e75A8B9,,1.0
+132,,,Arcane Network,ARC,0xBE09aCbfa6A17c26a0a30b1D8f583B7806B66Ca9,"Invalid compilation: 
+Invalid solc compilation ",0.0
+133,,,PEPESimpsons,PEPES,0x17E6033ef9998d408F16d359197a973dcbE1aBD1,,1.0
+134,,,PEPESimpsons,PEPES,0x17E6033ef9998d408F16d359197a973dcbE1aBD1,,1.0
+135,,,Punks404,PUNKS,0xcF1fB8d45e2f200Ae26e5edCF607d3903b53A0F7,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+136,,,The Sleeper,Sleeper,0x9e8c8F103dF5eCA1f518dEE197C100eb09b4Ae6C,,1.0
+137,,, Super Trump  , STRUMP            ,0x422019dF4Eb22829EA7c5ae1f3472Cb8381B2A29,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+138,,,0x404 Deployer Bot,0x404,0x4f69EbF8c0828f5C335600a05F0EB5F8573F4CE8,"Invalid compilation: 
+Invalid solc compilation ",0.0
+139,,,Conduit,CONDUIT,0x9ed9ed49b85818Ec652DA36021A1dbAF09990144,Unknown language: unknown,0.0
+140,,,The Biggest Bubble Run,BUN,0x49baa821916b58424DA9fb4cEcA17A1816C42fCF,"Invalid compilation: 
+Invalid solc compilation ",0.0
+141,,,GoodBook,GOODBOOK,0x41E6ea4a62Fd9B0a02d8F96Fea93095533D3c3bC,,1.0
+142,,,Spell Token,SPELLS,0x8e32D5DA49589EAf1682750F51296aE528728262,"Invalid compilation: 
+Invalid solc compilation ",0.0
+143,,, BounceBit  , BOUNCEBIT            ,0xb00Cd047A42fF190B8c74DF3d11CF1FD6Cea9Dd6,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+144,,,YAK,YAK,0xe842E272a18625319CC36F64eB9f97E5ad0c32AF,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+145,,,Full Metal Shiba:,FullMetal🔧,0x536B2Abda219AcE290e44d20827733f653Fc9994,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+146,,,IP weETH,ipweETH,0xaC5B04988BC71bEE96f8D93040777Db3ef166125,"Invalid compilation: 
+Invalid solc compilation ",0.0
+147,,,SKYGG,SKY,0x5a492bAe2017e95221E65225f2D132B0C3927f25,Unknown language: unknown,0.0
+148,,,XVEL Protocol,XVEL,0xA350eC480f53A6B9ee4F96cCebAACF09e9bc8645,,1.0
+149,,,PEPESimpsons,PEPES,0x17E6033ef9998d408F16d359197a973dcbE1aBD1,,1.0
+150,,,The Sleeper,Sleeper,0x9e8c8F103dF5eCA1f518dEE197C100eb09b4Ae6C,,1.0
+151,,,PEPESimpsons,PEPES,0x17E6033ef9998d408F16d359197a973dcbE1aBD1,,1.0
+152,,,Punks404,PUNKS,0xcF1fB8d45e2f200Ae26e5edCF607d3903b53A0F7,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+153,,,The Sleeper,Sleeper,0x9e8c8F103dF5eCA1f518dEE197C100eb09b4Ae6C,,1.0
+154,,, Super Trump  , STRUMP            ,0x422019dF4Eb22829EA7c5ae1f3472Cb8381B2A29,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+155,,,0x404 Deployer Bot,0x404,0x4f69EbF8c0828f5C335600a05F0EB5F8573F4CE8,"Invalid compilation: 
+Invalid solc compilation ",0.0
+156,,,Conduit,CONDUIT,0x9ed9ed49b85818Ec652DA36021A1dbAF09990144,Unknown language: unknown,0.0
+157,,,The Biggest Bubble Run,BUN,0x49baa821916b58424DA9fb4cEcA17A1816C42fCF,"Invalid compilation: 
+Invalid solc compilation ",0.0
+158,,,GoodBook,GOODBOOK,0x41E6ea4a62Fd9B0a02d8F96Fea93095533D3c3bC,,1.0
+159,,,Spell Token,SPELLS,0x8e32D5DA49589EAf1682750F51296aE528728262,"Invalid compilation: 
+Invalid solc compilation ",0.0
+160,,, BounceBit  , BOUNCEBIT            ,0xb00Cd047A42fF190B8c74DF3d11CF1FD6Cea9Dd6,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+161,,,YAK,YAK,0xe842E272a18625319CC36F64eB9f97E5ad0c32AF,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+162,,,Full Metal Shiba:,FullMetal🔧,0x536B2Abda219AcE290e44d20827733f653Fc9994,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+163,,,IP weETH,ipweETH,0xaC5B04988BC71bEE96f8D93040777Db3ef166125,"Invalid compilation: 
+Invalid solc compilation ",0.0
+164,,,SKYGG,SKY,0x5a492bAe2017e95221E65225f2D132B0C3927f25,Unknown language: unknown,0.0
+165,,,XVEL Protocol,XVEL,0xA350eC480f53A6B9ee4F96cCebAACF09e9bc8645,,1.0
+166,,,Peace Coin,PC,0x8C024CD50A94978537BDe537A1Fa25Ad89444222,"Invalid compilation: 
+Invalid solc compilation ",0.0
+167,,,SOKIX,SOKIX,0x754f13F3ef06343E32E9d366cF37cBF577711D50,"Invalid compilation: 
+Invalid solc compilation ",0.0
+168,,,Knob AI,KNOB,0xc8044a5e8a04C53D48e0B6f494744e7FEd5813a7,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+169,,,AIMeta Social,AISC,0xEf5530da0a5d7095De98ACd1B75f74fEd437Db67,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+170,,,EMERGENCE,EMRGNC,0x72dEFE33d566fb5A954CEb9a3f3dFbE892333803,,1.0
+171,,,PEPE100,PEPE100,0x85cF56E4C56019f2E3976767FDf74100968856fE,,1.0
+172,,,Supermind Ai,超级头脑,0x5Be37a52e3D1b5492Cb9C3D0b17536BCbb4EaF28,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+173,,,Detion(Decentralized Nations),DETO,0x2F1e69d0b89f88a8f77F89674b1A7b7642829880,,1.0
+174,,,NewSCUM,NewSCUM,0x5572dAa4A57952F14C4dFbD4bE23f64Dd6c8b611,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+175,,,OERN AI,OERN,0x2643173D4256d6823d1267Bb2a7CC4CB93dFcbF5,"Invalid compilation: 
+Invalid solc compilation ",0.0
+176,,,Musk vs Altman,MvA,0x7860CAdC04a3a9f5380D6c9a5217343696aD9c91,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+177,,,ЕTН...,ЕTН,0x99a4188F82ae495D13966baD937134D70f3F684B,Unknown language: unknown,0.0
+178,,,ЕRС20...,ЕRС20,0xC310F77B58219e67CE166249aE81Ce96C3eDa661,Unknown language: unknown,0.0
+179,,,Теthеr UЅD,USDТ,0xd61348C597CEd96AE493D5d30c4667dB545C2126,Unknown language: unknown,0.0
+180,,,UЅD Сoin,USDС,0x31Ef584c8D69Ca3f33028f83d23645967Ba50d26,Unknown language: unknown,0.0
+181,,,Dаi Ѕtablеcоin,DАІ,0x76a5C99c17A2441664BeEBD6De9B1d2fF4e6699a,Unknown language: unknown,0.0
+182,,,Closed AI,CLOSEDAI,0x122B79CB4e867684e3f58bc370F18f128BbE93b4,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+183,,,Nazare Ai,$NAZA,0x8F2a6287dbde9B3067035CB09be12E135A28c9FD,"Invalid compilation: 
+Invalid solc compilation ",0.0
+184,,,AI GPU,AIGPU,0xF12Cc8027ea6d9eaF793d5310b66cF85F41A33A7,"Invalid compilation: 
+Invalid solc compilation ",0.0
+185,,,DAWN-AI,DAWN,0x4E489693d13fBe94fe321457719F2F9601b8E30D,Unknown language: unknown,0.0
+186,,,KiloEx,KILO,0x923b3beE30004E3c34FD5Ab74967bf26f75DbdD3,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+187,,,,,0x2b2F14617df97B541b281f6C79FFc881C6EdC5b6,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+188,,,Army,ARMY,0x2c8407a5126A65ad6dF8CE64Ec294C3e38e919A9,Unknown language: unknown,0.0
+189,,,NitroFi Tools,NITO,0x674FCab5f6d7C61Afa9E7Af38a3166220518cB27,"Invalid compilation: 
+Invalid solc compilation ",0.0
+190,,,,,0x5Ab977e2423edef44D3e5876Ea2b7320Eb73e7e6,Unknown language: unknown,0.0
+191,,,Super Trump Coin,SUPERTRUMP,0x8066539F7608B3237F020Cf6618009f3f67C2b99,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+192,,,Shido,SHIDO,0x046556644d0D0bA3a91C5F42d83F6883b180FaF8,,1.0
+193,,,DataSphere,DS,0x8544553193FCBC03B7Df986D8c04a7F9235d8052,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+194,,,WHO404,WHO,0x85747b0ACfB2743c3Bd3363572f03fee96b6A102,"Invalid compilation: 
+Invalid solc compilation ",0.0
+195,,,Tether USD,USDT,0x136A56ABcAE9a244AE595265c876bAbc15a57756,Unknown language: unknown,0.0
+196,,,Meta AI,META,0xBdAC38D85dEf872D316a8928992F70FD57fE5951,,1.0
+197,,,Meta AI,META,0xBdAC38D85dEf872D316a8928992F70FD57fE5951,,1.0
+198,,,pepetrumpbullrunbitcoinhalvinginu,PTBBHI,0x4AEBaD9662437915c5709D64E3BD37b2668C75D4,Unknown language: unknown,0.0
+199,,,BornUnicorn,BUN,0x9a0BEc9CDf74C27E57C270f459D1b35e4daecf34,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+200,,,Laputa,LAPUTA,0x28dC2407225b3A9e75eCc65525e66920372A059f,"Invalid compilation: 
+Invalid solc compilation ",0.0
+201,,,PEPE WHALE,WHALE,0xe2B785A27e1dd312b3669499B64ce44504beA608,,1.0
+202,,,iziscan,izi,0xC29943d9df0f265CFC15DdF7DEb283555D015154,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+203,,,,,0x5f626C44d0fd9D152FF25ef572D9Be4617B5cBDE,"Invalid compilation: 
+Invalid solc compilation ",0.0
+204,,,EGO,EGO,0xC35cd80Ac4ca5ee1440ecFD55C7CAf2ed7eDc21b,,1.0
+205,,,Galactic Credits,CREDIT,0x11a24a042F8aDb99B1D80FCC33B56818A4e66EfC,,1.0
+206,,,ParabolicDAO,PATTERN,0xE0319C307F91144dc66364AaC54C79d91913C329,"Invalid compilation: 
+Invalid solc compilation ",0.0
+207,,,ERROR,ERROR,0x1F57CfFBf826ea2a72D38F8e458C1a4062856904,Unknown language: unknown,0.0
+208,,,ERROR,ERROR,0x256Ea24ab39A219Db2b5d16db2aAaB474cb8a58b,,1.0
+209,,,Titan AI Token,TAT,0x66f220Daf183A5EdD78F4DEb90b57242cb7A129D,Unknown language: unknown,0.0
+210,,,Tank Wars,TANK,0xAdb167654a41E60B95769Ce54521439a80A7427D,"Invalid compilation: 
+Invalid solc compilation ",0.0
+211,,,Syntax AI Node,NodeX,0xAaB825fCa74A711000d249C3c791133f0f873146,"Invalid compilation: 
+Invalid solc compilation ",0.0
+212,,,DODAS ERC404 Pass,DEP,0x668E40090575A318fB1b7233e7b3C5B61B4A4ad2,,1.0
+213,,,VIDEOAI,VAI,0x0cbDa0b3fAfc4f3730e2c574f52C01C7d94A8a0c,"Invalid compilation: 
+Invalid solc compilation ",0.0
+214,,,Syntax AI,SYNTX,0x794fceE2C16e9495c3f590958b1209400751Ba80,"Invalid compilation: 
+Invalid solc compilation ",0.0
+215,,,ClosedAI,ClosedAI,0x879987e62296048aD6748DcE216f1bcB3D63d5d4,Unknown language: unknown,0.0
+216,,,Syntax AI Node,NodeX,0xE2870Ad60442bd6f5634CA2E00a1Eb23cEA9786e,"Invalid compilation: 
+Invalid solc compilation ",0.0
+217,,,Stealth PEPE,$PEPE,0xf5b577eBedE0cD713E275a8F35Be1a00Dd2EE014,Unknown language: unknown,0.0
+218,,,Hercules Inu,HERCULES,0x351F8F6D2CdA66a0B5c82F0c4D5FAa456C92A3C1,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+219,,,Pepe One Coin,PEPE,0x96F2c9cf889b7A2758174eA1a3cb987D8edF0b33,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+220,,,Coin Master,CMP,0x11110FA8174624575D303f5cd6Ed487Eb8D172a6,,1.0
+221,,,Nazare Ai,NAZA,0xd7908eC84DE7d17Ede7517B02b8Ca9F825222aF4,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+222,,,TensorVM,TVM,0x6Dcce1e0F1F927FF3849327FF706a56285C0Cc51,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+223,,,Predict AI,PREDICT,0xe4ed15998e7310f0D0125F91eAd6f3D56644f0eD,,1.0
+224,,,Solvm,SOLVM,0x7E68c3Bb5A3485Cf624bDFb75545150cA1F0377a,,1.0
+225,,,Tank Wars,TANK,0xd1b0279b4B3663BDcd54B2FbaCE139f1a7D6F900,"Invalid compilation: 
+Invalid solc compilation ",0.0
+226,,, NUDEAI, NUDE,0x175c05d445e91967d17306c1bAe7e14aa6a79556,,1.0
+227,,,Hoppy,HOPPY,0x19DBee11aBBa4bF77df010508DB8C8E3470CCC1e,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+228,,,error,ERROR,0x604221b08F3110c37516B870aa2B8F057997f245,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+229,,,AeroX,AERX,0xb56B6E590867F87c00a11057bDCEfCa908C40036,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+230,,,BLOCK,BLOCK,0x94c62D127aE8044Fd49908F70D370eA59F6ac4d0,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+231,,,Error404,ERROR,0xEE3567E9076C71B347842750C83De4D04C13aB0c,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+232,,,Instaweb AI,iWEB,0x468ac4EB1Ed996272E3D8157721713D513FF3E48,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+233,,,Sodex Services,SODEX,0xeE89EEe8a55ec540F7EAF958D39af01BF031DaB3,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+234,,,Xeventy,XVT,0xfAbd1f82C391b30D5266828cC93b419A2485399f,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+235,,,Altair AI,ALT,0x3Cf5E002F761b6A4958DD8Dc49e0bde48201Ba74,"Invalid compilation: 
+Invalid solc compilation ",0.0
+236,,,NUDE AI,NUDE,0xf7E9c3EF62693A42512b8097159EEbce47EaFf5f,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+237,,,its begun,begun,0x03003305D2bC7fFc8df91C6fDC413473d32aA1cc,"Invalid compilation: 
+Invalid solc compilation ",0.0
+238,,,TrustworthyAI,TrustworthyAI,0xa4af7216B28E2070f7F11d605a38B40DE04d51Ef,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+239,,,JACKarse,MULE,0x50d481Da82Eb3EB832921E11BB93C4E81113c76c,Unknown language: unknown,0.0
+240,,,Baby Pepe,BEPE,0x76972a46d26831C86bFF2D60Ac688035b7BDAE56,Unknown language: unknown,0.0
+241,,,SupremacyAGI,SupremacyAGI,0xB3462158df1D9a348FC2d1Ef9b1b493b949b3669,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+242,,,BabyPepe,BabyPepe,0x378d28708e2Ff5eC33B29933225f68eFda21B1f8,Unknown language: unknown,0.0
+243,,,Pictogram AI,PAI,0x1aA42F127EBBb0C096e5cB8DBA1Ee7FB284b4b3D,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+244,,,0xAlien AI,MIXAI,0x3251dc71b5BFeDA1c8d26A4f2119B5B746721827,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+245,,,Fishing Club DAO,FCDAO,0xcbA7d17EeE8Fb98Cc5c7377C4624A3f091587f44,,1.0
+246,,,NUDE AI,NUDE,0x3e6A2bC917Fb49c7C872C9c3a83F001670559d7D,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+247,,,Pacman Checks,CHECKS,0xdBe5267629D862c5d94f91adfCd21f14CC709b1D,,1.0
+248,,,Apu Apustaja,APU,0xfCa8B7a10ac31C7e1e0d145E1D4Dc4D2725a8531,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+249,,,Error-404,ERROR,0x615faA065c54393E5A5DB2Ee76f5Be63256721D4,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+250,,,PEPEFLOKI,PEKI,0x516C14B3b86c4d53d8d3Fa34c4Ea35CfbBa5931d,,1.0
+251,,,Simba Trump,SIMBA,0x9a31a748aA02df9F8E8C4e2385C5AF937D39b381,"Invalid compilation: 
+Invalid solc compilation ",0.0
+252,,,Bitcoin Wizard,BTCWIZ,0x000524c78d5329F7d33F7a2834B4e6F70a984c2a,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+253,,,MoonlandToken,MTK,0xA65a1747916c0e413c0E7E438a9fFd16f57F570F,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+254,,,MoonlandToken,MTK,0x185Ab44E64D7858281B3e52dDd6408BB376234D7,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+255,,,Hey Nova,NOVA,0x0470a6BF6cfe52c7eC3Be449Ab10Cd6d7c4718C5,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+256,,,APOLLO 15,APOLLO 15,0x8DCFD71AebE4299a37804aA4fc4598589d94Fcfd,"Invalid compilation: 
+Invalid solc compilation ",0.0
+257,,,Melon Dog,MELON,0x1d53876f65f37F89d66638B17F485EAb725e8925,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+258,,,Mix,MIX,0x2dF37F2df9Ae5d40e8D58AFAE69166d48a999D74,Unknown language: unknown,0.0
+259,,,Doge Dollars,DODO,0x21BAE9673784Ef9F954cE0253ECB9031883bb521,,1.0
+260,,,Practic,$PTIC,0x7d721816a2DeED8A9b029D391d463a9d02bC5DC4,,1.0
+261,,,THE MISSOR,MISSOR,0xE5c537b66Fd59388c15fb102721519fcA29fda35,Unknown language: unknown,0.0
+262,,,sophon,sophon,0x78E25261D5369962E0A8bEF3DEE0E2Cd9816c266,Unknown language: unknown,0.0
+263,,,Brrito,BRRITO,0x609eBC7b59e299641E1928A735e8fA7b86E179e4,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+264,,,Tensor Net AI,TNAI,0xDD9F2163573B34db04bB17c78d20bD3ed2D1312f,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+265,,,PAALX: Bots Collection,PAALX,0xE71af533d7587A9Eb7B4bDfD3D018e5ab73a8A82,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+266,,,valhalla,pODIN,0xafe1F646018e778f504B51Cfe46bC5e2B8178677,,1.0
+267,,,Okay Dogs,OKD,0x7037ae030238C688dd7bB421d4A4f78d7684533A,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+268,,,Casita de Cruz,CDC,0x1A90EE4B8A8aa2060fEE932E903E1F6F8Ec169Bf,,1.0
+269,,,Automak,ATOM,0x1b75C32Ade437BD70dA7162Ed2dBa1b1DC156430,,1.0
+270,,,YoListenUpMofosJeetyAftodayAllyouKeyboardFuckingWarriorsAndFuckingDigitalStupidsItsFuckingYaBoyTheUndisputedMasterOfTheOnlineFuckingShitTheyCallMeFingersOfFuryOrSimplyMiddleFingerAndImHereToLayDownTheLawInTheDigitalWorldOfMemeYouThinkYoureAllFuckingThatHuhTypingFuckingAwayOnYourLittlePlasticKeyboardsFlexingThoseMemeImagesMusclesWellGuessWhatMotherfuckersIBenchPressBitsAndSquatsKilobytesForBreakfastYouSayICantLiftInRealLifeHaIOnceLiftedMyStupidCatAndABagOfChipsAtTheSameTimeNosweatMyBicepsAreSoDamnLegendaryTheyHaveTheirOwnFacebookFanPageWhenImNotSparringWithTrollsImFendingOffCyberDragonsAndBattlingMythicalRedditCreaturesMyScreenNameIsEngravedOnTheGreatFirewallofChinaAsAWarningToAllWhoDareChallengeMySupremacyInMinecraftILaughInTheFaceOfLagLagFearsMeIveGotPingSoLowItsPracticallyNegativeMyFunnyInsultsAreSoSharpTheyCutThroughFiberOpticsLikeAHotKnifeThroughYourFuckingAssYouThoughtYourMemesWereDankChildsPlayIveMemedWithTheAncientEgyptiansTradedPunsWithShakespeareAndEvenHadARoastOffWithMedievalJeetersSoBeforeYouStepUpToTheKeyboardRememberImTheFuckingRulerOfTheInternetDojoTheDigitalDominatorTheMemeMaestroTheFuckingInternetThoughGuyAndIfYouDareFuckingCrossMeIrlYeahIrlBePreparedToFaceTheWrathOfMyMightyKeyboardOfJusticeStupidAss,INTERNETTOUGHGUY,0x99b3D34E26A9550183a50e90e1412a295E5b3476,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+271,,,catwifhat,CWIF,0x8d77Ede3D0Fe67A9042d70b6E3676f1769B02c02,"Invalid compilation: 
+Invalid solc compilation ",0.0
+272,,,Closed AI,ClosedAI,0x302dc4C11Beb60c53b9289675C5ceF8B221B7135,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+273,,,Mecka AI,MECKA,0x40973d1F8cF6af7BbEd2A1CE0634717d3455e256,,1.0
+274,,,Murf,MURF,0xECe93b610fE0528479b16DC7F0b2Ef65a7f25A57,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+275,,,Corphix AI,CORPHIX,0x5Eaf5acB2bba16F6EB93999EEB44e6211Ac8818a,,1.0
+276,,,Baby Mog,BMOG,0x207b5887c17bD07cE091b70D0A2c1b5C64234F28,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+277,,,Pepe Collection,PEPE404,0x564b584B15b692E8B9A142CE44E521B8D9157955,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+278,,,Pepe Collection,PEPE404,0x8b00824936d34F66986fdceF33dcc3BB9b16b2e4,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+279,,,Pog Coin 2,POG,0xF875c423F210E0dBBB0FE9801608236412eBB8dF,,1.0
+280,,,AlphaOrBeta,AOB,0x70acB9f3a4Da71c0aA868276881e4c5Be9440346,,1.0
+281,,,Aether Games,AEG,0x6dEb51b61D1dcF165FE850f244DEe6bAFF4f03e2,,1.0
+282,,,Escrow AI,ESCROW,0x966670ba8DE04823C77Bf2aA2008373D8c269D4B,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+283,,,Aether Games,AEG,0x80cA3D361aFfEb2bd088D8710fd3a620751778D6,,1.0
+284,,,Blend Exchange,BLEND,0xCf1D66a96909e5caD7cF8b75024961956Df3D061,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+285,,,Nazare Ai,NAZA,0x4938cfd5C2416cC6E11E2cc14055AAB27B97c494,"Invalid compilation: 
+Invalid solc compilation ",0.0
+286,,,Tigra,TIGRA,0xbe8EFF45293598919c99D1cBE5297F2A6935BC64,,1.0
+287,,,catwifconfusingauras,$CWAS,0x7F8366390DF8F30C1A56f4E04612d92A71c4ebB4,Unknown language: unknown,0.0
+288,,,Dibbles,Dibble,0x9388bb05df39287605441d4Dc36b0ef33513BD96,Unknown language: unknown,0.0
+289,,,DogeFork,DORK,0x26BBFE6357A5fE36cc68F1756931B42d5Eb1F908,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+290,,,PrintStake,PRINT,0x9D6c7893Da287c4F6a774Cfb2712BAB6EB40a258,,1.0
+291,,,Abe,ABE,0xc75f80f15458A80ea0446025B758FD283E1B1e6a,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+292,,,MASYA,MASYA,0xb158A62f6F2FB4D94Bd72E10cA571f587c7f4fBe,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+293,,,Studio Pass,NTV,0x5D72b691ac675e400B4D1F66754484ab221F9356,,1.0
+294,,,Kabosu,KABO,0x16711f7f0E3B011092A2BBe7d2e82463E382B247,"Invalid compilation: 
+Invalid solc compilation ",0.0
+295,,,Winter Trump,WINTER,0x7a132EF83022b04bf077859F4e832ea612d90e70,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+296,,,Miss P,P,0x1730fA740214526601113ccBC46421A237290A49,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+297,,,HemuleWifHat,HWIF,0xaC297409C7f7e3001Ee61815fdE98F208540269a,"Invalid compilation: 
+Invalid solc compilation ",0.0
+298,,,Nazare Ai,NAZA,0xdE16030c20f0B7dD2A149d338Cf0Ff7FAfA2DCF7,"Invalid compilation: 
+Invalid solc compilation ",0.0
+299,,,Glaze Coin,GLAZE,0xf9eeAFD8Dff42641F0a484C06Ed909cCC9a14f19,"Invalid compilation: 
+Invalid solc compilation ",0.0
+300,,,OpernAI,CHETGPT,0x2017E04403C92B13315E0f8F3e9E3F4C323D9532,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+301,,,Nazare Ai,NAZA,0x782C3DfeB8651c81c77D758B05a317235aA94c08,"Invalid compilation: 
+Invalid solc compilation ",0.0
+302,,,Kermit,KERMIT,0x899eA95Cb1f0Fd9140a873d6E556be0d25E20c94,,1.0
+303,,,Marvin,MARVIN,0xA0CeC009cfBB11424f84d3A6CD7518bCE0EE4D43,,1.0
+304,,,COW BOY PEPE,PEPE,0x105dD0eF26b92a3698FD5AaaF688577B9Cafd970,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+305,,,TrumpWifHat,TWIF,0x3D2E8A1c9cfc47e656317023799B749Fb68B2040,Unknown language: unknown,0.0
+306,,,ALERT AI,ALERT,0x23B269af9048Fe95edd0EB6f54cC84D05881E92d,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+307,,,BitFarm Protocol,BitFarm,0xACa1Da9E952d68575ceead8e721C5E06009E265F,,1.0
+308,,,Balltze,BALL,0x3d4fa35F3a42241A41929a731ED4d4b6D8a6B1e3,Unknown language: unknown,0.0
+309,,,Bank of Pepe,BPEPE,0xF7d4674141Bc7D60f298384e8eCAa29C38667946,Unknown language: unknown,0.0
+310,,,ComSec,COMSEC,0xA609c1f96410E45aCBd41D7980AFe9003E341c6F,,1.0
+311,,,ComSec,COMSEC,0xA609c1f96410E45aCBd41D7980AFe9003E341c6F,,1.0
+312,,,RubyAI,RUBY,0xfd3348875E5d9cFE39CB3e4b2E7E34F8C7be282f,Unknown language: unknown,0.0
+313,,,Weblium,WEBLIUM,0x89451D1eE1b833226288B2768dB7d63f8578427E,Unknown language: unknown,0.0
+314,,,X Auditor AI,XAAI,0xDCCd2CDe3c7c1e4ECC84e94f588D71faB4a5EDf5,"Invalid compilation: 
+Invalid solc compilation ",0.0
+315,,,Project Music GenAI Control,GENAI,0x78841b73A8bF46066ff6Eb9C11F77bFa2f7109C1,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+316,,,Vyxal,VYXAL,0xC66f0384E47e64937C7eCf0058B681E65f1065A0,Unknown language: unknown,0.0
+317,,,Pepe 3.0,PEPE3.0,0xbAefA6a0C561d13573F6c0e12cFAa25C6169c6d7,,1.0
+318,,,LITE SERVERS,LITE,0x12f23686c4898E47830530f38e7B01016DeD46b6,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+319,,,Samsara Pepe,SAMSARA,0x9b075C89D0096f9799040baf43b6E00Fe009Bdd2,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+320,,,Samsara Pepe,SAMSARA,0x5e7C0f81aca9615c71ff57a072f964D53BBcc6B8,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+321,,,WIFPEPEMOGINU,WIFPEPEMOGINU,0x0f0bbAF936f7aDA2acA5b80BED7b655758d66950,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+322,,,WIFPEPEMOGINU,WIFPEPEMOGINU,0x23308132EEcfec73efC6e239018AD2aebFE1C34c,Unknown language: unknown,0.0
+323,,,Babylon,BABY,0x846a5DD2D00F21821d81B6C533805D23CcD02065,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+324,,,WIFPEPEMOGINU,WIFPEPEMOGINU,0x12541eec0B4EB5440Bda9AE1DB325954f3c938BB,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+325,,,Ethereum Puppets,PUPPET,0x604bD006802b6DC17EE150836359f042DEfAB807,,1.0
+326,,,$WIFPEPEMOGINU,$WIFPEPEMOGINU,0x893FD6EF95BBc151B06202d0931aFB5163Fc387C,Unknown language: unknown,0.0
+327,,,Onigiri,ONIGIRI,0xdbD03DE27C2dee732f3221BD4FC9C39449a6239c,Unknown language: unknown,0.0
+328,,,MEMECOIN ARMIES ASSEMBLE,$WIFPEPEMOGINU,0xD72C31eE14dEf3F5D22C45fC5aC9928141247269,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+329,,,Cyber Ape Yacht Club,CAYC,0x21C51847F4f01206760B57540CCa62A367fb61E5,,1.0
+330,,,Onigiri,Onigiri,0x4e439e257D406F0d5e26FFfC10c7BFa0B58BC35d,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+331,,,WIFPEPEMOGINU,WIFPEPEMOGINU,0x4D8E8930C0A570880285200790f6b083f0C1048e,"Invalid compilation: 
+Invalid solc compilation ",0.0
+332,,,MEMECOIN ARMIES ASSEMBLE,DOGESHIBFLOKIINU,0x816a760AA491E8EAea0dDCf6Af6CC2Eebda0c0dD,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+333,,,Onigiri,Onigiri,0xC7B9830F0002175d12DB5a1DF0aff081979Ac9fB,Unknown language: unknown,0.0
+334,,,Womens Rights in Web3,WOMEN,0xe6b40d64ADCA27910A8c90201fD292e44a47Dad3,,1.0
+335,,,beeple,beeple,0x2e0b0C3711abc40BFec2031013BFf2eDf1552038,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+336,,,Blast,BLAST,0x8Fc3961F96928a950a71fc1464F96465bd48a04e,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+337,,,Cloud AI,CLAI,0xAb94904292560fDBc44b52C267a5c5177eA38FAa,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+338,,,BullFrogInu,BullFrog,0xdcADFED5E6367A640e3258f8b7A05AAD3cE139Ab,,1.0
+339,,,mnml gaming,mnml,0x5336f2cFC431Cd4b1E3eBCf64C4E94D1c9Dc346F,,1.0
+340,,,WHO404,WHO,0x2370022E048406c55Ce0C254A3faE9f8a085ef2F,"Invalid compilation: 
+Invalid solc compilation ",0.0
+341,,,nofomo,nofomo,0xaAc54007694B03C11E87E8202653d11dC8111922,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+342,,,Boomy,BOOMY,0x084cE5563b9676971e5a4ADB39158244F9e00906,,1.0
+343,,, Ordibank  , ORBK            ,0x6c73E80F4CaA0fe0fdAc6c8B5ea1ec63d4F1fAcD,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+344,,,Venom,VENOM,0xC29bfcB8b0f44Eb3ae2F33e2c3a680FFe278055E,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+345,,,AIgoogle,AIgoogle,0xb4aDa33d025B74d4d7596ECe12EefcD80A918770,"Invalid compilation: 
+Invalid solc compilation ",0.0
+346,,,Green Carbon Coin,GCC,0x36174a70BB952f287a47c0c1117958660845E143,,1.0
+347,,,CLOUD,CLOUD,0xfABcdCEA733AAc380d7794D9b90CFC703Df30163,,1.0
+348,,,Save A Bird,Save A Bird,0x092F9235c07CAa816182363B8329011549B008C2,,1.0
+349,,, BounceBit  , BounceBit            ,0x908d7874a66cAA49A754b299E3AbB94410C3682b,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+350,,,Helga Inu,HELGA,0x3e962D263997971e096D140600AE43c9417dFF96,Unknown language: unknown,0.0
+351,,,EmoAI,EMO,0x8ad15fe31fb068E5B52A579E5798Cf6B86BF6cB5,Unknown language: unknown,0.0
+352,,,Pepe 1.0,PEPE1.0,0xb05341e532A01223A91587E28D38D777DfC49e39,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+353,,,Masya,MASYA,0x53f201E65240Cb7d1c07439e7Ec169cC8c00C8BA,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+354,,,Helga Inu,HELGA,0x78E3b2ee11950df78a35FD924E92fbB8d1403780,"Invalid compilation: 
+Invalid solc compilation ",0.0
+355,,,nofomoNFT,nofomoNFT,0x4f84562970B6E2De0c036b8b300DcF81de8F9Bc8,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+356,,,MoonlandToken,MTK,0xAC9D70aebd49555b033751E311044BECF3513c0f,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+357,,,,,0x5aDeedEf03432c97717d5CA47339bbB629af697B,Unknown language: unknown,0.0
+358,,,OmniLayer ETH,OETH,0x145679bBb41111f22d21F13409aA7cB5a04625bC,"Invalid compilation: 
+Invalid solc compilation ",0.0
+359,,,Ordinals AI,ORDAI,0x04413d62E725216A06C603b32303a4c52945BEeD,,1.0
+360,,,Kyokushinkai Token,KYO,0x42C101B694ccaF488928063764921b98b2c0f848,Unknown language: unknown,0.0
+361,,,Oh Swap,Oh,0x991999054aC60f89Bec6b4e63D07E69D07393043,,1.0
+362,,,Ordinals AI,ORDAI,0x839FB7f1BeB9Aa162AF96487A9139d80534E2f92,,1.0
+363,,,EtherPal,EPAL,0x511C141C5cd332F4a6b7926b8E83cC6B63E4B347,"Invalid compilation: 
+Invalid solc compilation ",0.0
+364,,,RATS,RATS,0xF2D4900994B24ADaC8b396500F24E0557E2Bf84D,Unknown language: unknown,0.0
+365,,,Pepina,PEPINA,0xAD412318c081aE39777Dd3180bE2Ba8455D7AE79,,1.0
+366,,,Tim Buckley,MISSOR,0x173A5b664f994b3a845B8294c9fDd4600Ae4D900,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+367,,,Pepa,PEPA,0x468599fbCd8EEE1158b71570E86FDb99A20e34a6,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+368,,,农夫山泉,农夫山泉,0xAeC4898318042AfB23A677149a82Ef7DF81F4F3C,,1.0
+369,,, Qubic   , QUBIC            ,0x15439AF48fE6aac4d0DC4Dda5da2D00E58cf61f1,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.22/solc-0.8.22 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+370,,,USDT,USDT,0x1e5Df10dA4354d508106d0923185C561816af256,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+371,,,Wrapped(Ether),Wrapped(Ether),0x9627224D5Babd222d5618dB667e65a6Ff7AC2004,Unknown language: unknown,0.0
+372,,,Cocaine,ICE,0x6f11478B40824D66E1fb3d210dbbEceBAc0a8785,,1.0
+373,,,Thrylos Eth,THRE,0xCb28268d18FA94048749C5f0E82F0b27ca2cD786,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+374,,,Sad Hamster,HAMSTER,0x3f083F1c2e5A28670DDf9222524b6a0D63BDC119,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+375,,,AIPIG Token,AIPIG,0xA28431B90D1C656F27C3dA600860E85257Df0899,"Invalid compilation: 
+Invalid solc compilation ",0.0
+376,,,Beeple,BEEPLE,0x624bb7bb3ab3435232d00b4e9A01BFC3565AC3Fd,"Invalid compilation: 
+Invalid solc compilation ",0.0
+377,,,Foresight AI,FAI,0xf23Fd5eF8f228104C1f2F57b2a7Db32e8119dfb8,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+378,,,,,0x2904f79c4f3375F1473Df6095f3bD5960acAA2CE,Unknown language: unknown,0.0
+379,,,Flokiwifhat,FWIF,0xb3E2960999E9F1AC9F3C8e767A134970C1D4152c,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+380,,,XODEX,XODEX,0xb81408a1cC2f4be70a6a3178D351ca95A77C5A06,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+381,,,Pablo Escobar,Escobar,0x660C27a76B333C9CfcCe1a5Dd8Ef89A20770B115,,1.0
+382,,,PEPELON.VIP,PEPELON,0xEA2304941d3aCFc0cfcE681091514580311349C4,"Invalid compilation: 
+Invalid solc compilation ",0.0
+383,,,DiamondBeaver ,DAM,0x2FbC061807Bf8EB371209be1E4f68182D3064267,"Invalid compilation: 
+Invalid solc compilation ",0.0
+384,,,DedaCoin,Deda,0x15F9EB4b9BEaFa9Db35341c5694c0b6573809808,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+385,,,INCOGNITO AI,INCOGNITO,0x9cc3A06D799BCe58EF5dfcAcBf5eCA0cDa8cabC4,Unknown language: unknown,0.0
+386,,,Big Chungus,$CHUNGUS,0x5a255D96191255A391abCA6D3645F680c7621957,"Invalid compilation: 
+Invalid solc compilation ",0.0
+387,,,Magic GPT,MGPT,0x738FDdc4108C714A1e100993Dbab35C05839bd35,,1.0
+388,,,Crocus AI-Powered Network,CRUS,0x83fED268FE86d7e18bC95a89b8d0f8970AAa798b,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+389,,,Major,MAJOR,0xF097c5c5288984f6558D9C3d40811B6862314084,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+390,,,AIRSHIBA,AIRSHIBA,0x9F1EEa3b1db0753FBcc9903C2f322EBB36F59801,"Invalid compilation: 
+Invalid solc compilation ",0.0
+391,,,dogewifhat,DWIF,0x41c751BBa6dCDf02cb8Df01551a270db0939C6D9,"Invalid compilation: 
+Invalid solc compilation ",0.0
+392,,,Urban & Orbi 2,UO2,0x92248c72669CC3c9Ff2CeA826CB2ad10610F49F2,,1.0
+393,,,BetAI,BAI,0x36C79f0B8a2e8A3C0230c254C452973E7a3BA155,,1.0
+394,,,Crown Trade,CROWN,0x8Bfa08c9fb188526b65332bf6162C73b98C362b1,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+395,,,Loopy,LOOPY ,0x89819b5F4d890624c61f5C942ea1B3b5089ca22e,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+396,,,ERC-4337,ERC-4337,0x9eA276799634429974EF47Aa1D2b1e8819F76c02,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+397,,,ERC-4337,ERC-4337,0xe5A7014d931bE870A388cb1d7835C87d630446D9,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+398,,,decentralized fee market,ERC-4337,0x5cCFf1D1d1a430f53CC153191307aF0E8C2D01da,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+399,,,ERC-4337,ERC-4337,0x6a05Be6b3E212f552e02Dcd975f1EEb802b22f99,,1.0
+400,,,Setensor,SAO,0xbc7C5d6Cd263BEC6e7979518B599560B27297e1A,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+401,,,Tsundere Dreams,TSD,0x9e2f137f96f0EC7E6F16237c3F2348FB6f285F41,,1.0
+402,,,Blast Airdrop Token,Blast,0xB59dEb450aC710C2545e5Aa5098FcBcA3A8Bc19C,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+403,,,ERC-4337,ERC-4337,0x357cb28c09EEaa2329fE89CdA0134857bB929D11,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+404,,,Geth Sucks,GETH,0x3F7E0179f20192c4Be8c79B12E93345eb48C2C1f,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+405,,,geth sucks,GETH,0xb235B9f4f28AB7F70C3f906EBfB4F463f2E904A9,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+406,,,WHO404,WHO,0xfcf2433833aD23c3De8C46b95158a9B40E0bc98b,"Invalid compilation: 
+Invalid solc compilation ",0.0
+407,,,mogwifhat,$MIF,0x6b723020bf5560141dE8F5E630520446860792fA,,1.0
+408,,,Sentensor,SAO,0x9aF0e7495553A6250d1459f3AAB172aDFA6f385f,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+409,,,The Forge,FORGE,0xA26e41aEf0f2E430D4f05e518fB357BC6Dc688C0,"Invalid compilation: 
+Invalid solc compilation ",0.0
+410,,,RIP-7560 Token,RIP-7560,0x0E2a6F1D216B2561c1be9615ed2ab0c97Ce60C5f,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+411,,,Chonky Bumblebee,BEE,0x6621Bf40b385C161E974A846a4fa7Cd792f2eFcf,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+412,,,RIP-7560 Token,RIP-7560,0xB7bC666D2eed848c13F34F876D64D8a9aaA480f3,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+413,,,Ordibank,ORBK,0x2823915C0A70c8774dCb79EC2BB433C8Fbce370C,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+414,,,RFK JR ETHDenver Commemorative,RFK,0xAADFf20356Fea041a255619409154B3Fb83A6200,,1.0
+415,,,Chonky Bumblebee,BEE,0x712e56B7295A998A9AF65Ed6c07403bF3ACb5F11,Unknown language: unknown,0.0
+416,,,WHO404,WHO,0x32D3e84741a4B79B157DcE8270Eb4e813d2CDA2d,"Invalid compilation: 
+Invalid solc compilation ",0.0
+417,,,DogoToPluto,DTP,0xAd38018dc065AB410cE425bA537d15307579979F,"Invalid compilation: 
+Invalid solc compilation dyld: Symbol not found: __ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.24/solc-0.8.24 (which was built for Mac OS X 13.5)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+418,,,,,0x2a225F4Ea070B8AFf1C7CB81a0488d0d7348DDc1,Unknown language: unknown,0.0
+419,,,ShiftCtrl,STRL,0x17CAb1076da17928144Bc8Ca0c1A1931577884DE,"Invalid compilation: 
+Invalid solc compilation ",0.0
+420,,,Pepina,PEPINA,0x0ce29595baFde7d9832d475175160b4780F03a17,"Invalid compilation: 
+Invalid solc compilation Traceback (most recent call last):
+  File ""/usr/local/bin/solc"", line 8, in <module>
+    sys.exit(solc())
+             ^^^^^^
+  File ""/usr/local/Cellar/solc-select/1.0.4_2/libexec/lib/python3.12/site-packages/solc_select/__main__.py"", line 94, in solc
+    subprocess.run(
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File ""/usr/local/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py"", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+PermissionError: [Errno 13] Permission denied: '/Users/enrique/.solc-select/artifacts/solc-0.8.23/solc-0.8.23'
+",0.0
+421,,,Devo Finance,DEVO,0x25EA70181f9b089a3751eA278001318B07A971b8,,1.0
+422,,,82,82,0xF7237eC5595Ce7E622284759FD09a990a2f4F780,Unknown language: unknown,0.0
+423,,,ReFi Finance,ReFi,0x5F288C15ee5C44E5cb23af3A62D099ebA5fEba68,,1.0
+424,,,Blendr Network,BLENDR,0x84018071282d4B2996272659D9C01cB08DD7327F,,1.0
+425,,,Ordibank,ORBK,0xCe6E54DaA1ea95fb3530859d69D4bdb978dd821b,"Invalid compilation: 
+Invalid solc compilation ",0.0
+426,,,Krick Coin,KRICK,0x4F0E058C5e8895d576390eA0b8E351F063b34f81,,1.0
+427,,,Founder,FNDR,0x155aB13F7c552C5a0856A4b67637D4b0bB456330,,1.0
+428,,,Enter the AI,ETHAI,0x8Efe43aD583aFCC2C76Efa2bD40233114C78636B,"Invalid compilation: 
+Invalid solc compilation dyld: lazy symbol binding failed: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+dyld: Symbol not found: __ZNSt3__113basic_filebufIcNS_11char_traitsIcEEEC1Ev
+  Referenced from: /Users/enrique/.solc-select/artifacts/solc-0.8.21/solc-0.8.21 (which was built for Mac OS X 12.6)
+  Expected in: /usr/lib/libc++.1.dylib
+
+",0.0
+429,,,PepeTimes,PEPETIMES,0x481d9D3fF5E891d97f9070345470F8dD91D7f3F3,,1.0
+430,,,ReFi Finance,ReFi,0x24F100e09C7F16059e8EEB839a6E6cBE48e05bA8,,1.0
