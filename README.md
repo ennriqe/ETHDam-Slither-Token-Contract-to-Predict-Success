@@ -1,4 +1,4 @@
-# ERC20 Token Success Prediction
+# ERC20 Token Success Prediction using contract data extracted using Slither
 
 ## Project Overview
 In this project completed at ETHDam 2024, I predict the success of newly minted ERC20 tokens on Ethereum using only features extracted from their smart contracts via Slither. Success is defined as reaching a 100k market cap at any point within the same month they were created. I employ a LightGBM model to predict this binary success variable, achieving a model significantly better than random chance.
