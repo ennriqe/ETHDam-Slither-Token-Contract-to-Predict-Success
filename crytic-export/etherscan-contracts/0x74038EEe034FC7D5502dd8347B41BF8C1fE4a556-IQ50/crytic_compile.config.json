@@ -1,0 +1,1 @@
+{"solc_remaps": {}, "solc_solcs_select": "0.8.7", "solc_args": "--optimize --optimize-runs 999999 --evm-version istanbul"}
